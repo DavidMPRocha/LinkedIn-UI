@@ -1,4 +1,4 @@
-#LinkedIn-UI Clone
+# LinkedIn-UI Clone
 
 This project is a clone of LinkedIn. With the famousshimmer effect.
 
