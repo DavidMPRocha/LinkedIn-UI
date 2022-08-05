@@ -2,7 +2,6 @@
 <img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" width="500" />
 
 
-
 # LinkedIn-UI Clone
 
 This project is a clone of LinkedIn. With the famous shimmer effect.
